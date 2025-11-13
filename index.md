@@ -3,3 +3,6 @@
 ### GitHub Skills are Cool!
 
 ![Cool Octocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+print("Hello, Markdown World! 🌍")
