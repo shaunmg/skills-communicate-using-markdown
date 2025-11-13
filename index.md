@@ -6,3 +6,10 @@
 
 ```python
 print("Hello, Markdown World! 🌍")
+
+### My Markdown To-Do List 📝
+- [x] Add headers  
+- [x] Add an image  
+- [x] Add a code example  
+- [ ] Complete Markdown course  
+- [ ] Share my repo on µLearn 🚀
